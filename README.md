@@ -30,8 +30,6 @@ git clone https://github.com/Chigozieworldwide/XCARET
 ### RESULTS:
 ![template_s](https://github.com/Chigozieworldwide/XCARET/blob/main/__pycache__/IMG-20220224-WA0012.jpg)
 
-<img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG-20220224-WA0012.jpg" width="640" title="Menu" alt="Menu">
-
 If everything is installed, all you have to do is run the script by typing the command below:   
 
 ````bash
