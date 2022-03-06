@@ -48,3 +48,9 @@ cd $HOME/XCARET
 
 git pull
 
+````
+
+If you can't use this script or there is a bug in the script, please contact me
+
+#### contact me:
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348069472717?text=Asalamualaikum+bang)
