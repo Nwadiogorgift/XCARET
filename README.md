@@ -1,6 +1,9 @@
- #### Link download termux : https://f-droid.org/repo/com.termux_117.apk if it has been downloaded, open the application, then install it by typing the command below:
 
-```` bash
+#### HOW TO INSTALL SCRIPT:
+ DOWNLOAD THE TERMUX ANDROID APPLICATION AT [HERE](https://f-droid.org/repo/com.termux_117.apk), 
+
+then open the application type the command below.
+ ```
 
 pkg update && pkg upgrade -y
 
