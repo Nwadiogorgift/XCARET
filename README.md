@@ -28,7 +28,7 @@ LOOK AT THE PICTURE
 
 <img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG-20220224-WA0012.jpg" width="640" title="Menu" alt="Menu">
 
-<img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG_20220303_101919.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG-20220224-WA0012.jpg" width="640" title="Menu" alt="Menu">
 
 If everything is installed, all you have to do is run the script by typing the command below:   
 
