@@ -27,9 +27,8 @@ git clone https://github.com/Chigozieworldwide/XCARET
 
 ````
 
-LOOK AT THE PICTURE 
-
-<img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG-20220224-WA0012.jpg" width="640" title="Menu" alt="Menu">
+### RESULTS:
+![template_s](https://github.com/Chigozieworldwide/XCARET/blob/main/__pycache__/IMG-20220224-WA0012.jpg)
 
 <img src="https://github.com/Chigozieworldwide/XCARET/__pycache__/IMG-20220224-WA0012.jpg" width="640" title="Menu" alt="Menu">
 
