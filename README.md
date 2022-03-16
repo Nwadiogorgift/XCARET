@@ -24,7 +24,7 @@ pip install requests bs4 futures cython
 rm -rf XCARET
 
 git clone https://github.com/Chigozieworldwide/XCARET 
-
+cd XCARET
 python XCARET.so
 
 ### RESULTS:
