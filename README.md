@@ -25,7 +25,7 @@ rm -rf XCARET
 
 git clone https://github.com/Chigozieworldwide/XCARET 
 
-````
+python XCARET.so
 
 ### RESULTS:
 ![template_s](https://github.com/Chigozieworldwide/XCARET/blob/main/__pycache__/IMG-20220224-WA0012.jpg)
